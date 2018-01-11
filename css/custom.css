@@ -1,0 +1,24 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-image:url(../img/bg.jpg);
+	background-position: top center;
+	background-size: cover;
+}
+
+.bblogo {
+	margin: 12% 5% 5% 5%;
+}
+
+.bannerad {
+	margin: 12% 5% 5% 5%;
+}
+
+
+footer {
+	background-color: sandybrown;
+	padding: .5% 2%;
+	color: white;
+	margin: 30px 0;
+}
